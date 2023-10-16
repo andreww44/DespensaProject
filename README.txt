@@ -11,3 +11,6 @@ No Funcionales
 
 GitHub: https://github.com/andreww44/DespensaProject.git
 Video: https://youtu.be/KwyBhL8twcU
+Diagrama de clases: https://drive.google.com/file/d/17SQ6ASQjGzTWRj0nXdpkQkcRPnFjQ-cO/view?usp=sharing
+Presentación: https://drive.google.com/file/d/1-7kXeAWKi0BOVKSv2RbwLEEv_LwBbI8w/view?usp=sharing
+app: https://drive.google.com/file/d/1yV3JAmaSF7nGXYQe1CsNRaXeVt_B2vJr/view?usp=sharing
